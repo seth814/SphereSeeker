@@ -1,0 +1,6 @@
+<launch>
+    <!-- seeker launch file -->
+    <node pkg="seeker" type="sphere_seeker" name="seeker_node" output="screen">
+    </node>
+</launch>
+
